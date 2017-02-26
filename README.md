@@ -120,11 +120,11 @@ see `sample.cpp`
 
 ## Normal
 
-![](img/normal.png)
+![](img/Normal.png)
 
 ## Deuteranopia Friendly
 
-![](img/deuteranopia.png)
+![](img/Deuteranopia.png)
 
 
 # Limitations
